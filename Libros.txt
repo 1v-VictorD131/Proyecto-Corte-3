@@ -1,0 +1,4 @@
+6. **SANCHEZCIE,Carlos Sánchez,CIENCIA,2022,true
+7. **CASTROHIS,María Castro,HISTORIA,2016,false
+8. **FERNANOTR,Raúl Fernández,OTRO,2018,false
+CASTROFER,Fernando Castro,MISTERIO,2016,false
